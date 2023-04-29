@@ -1,6 +1,6 @@
 /**
  * @name MemeSounds
- * @version 0.8.4
+ * @version 0.8.5
  * @description meow
  * @author Link#0409
  * @authorId 539020860808232980
@@ -113,7 +113,16 @@ module.exports = (() => {
 				{re: /kebab/gmi, file: "kebab.mp3", duration: 4000},
 				{re: /Number7/gmi, file: "Number7.mp3", duration: 4000},
 				{re: /fortnite/gmi, file: "Fortnite.mp3", duration: 4000},
-				{re: /kanye/gmi, file: "kanyeeast.mp3", duration: 4000}
+				{re: /kanye/gmi, file: "kanyeeast.mp3", duration: 4000},
+				{re: /atomic/gmi, file: "Atomic.mp3", duration: 4000},
+				{re: /Yamete Kudasai/gmi, file: "yamete.mp3", duration: 4000},
+				{re: /Who is running?/gmi, file: "whos running.mp3", duration: 4000},
+				{re: /super hyper ultra ultimate deluxe perfect amazing strong cute beautiful galaxy baby mugen muteki musou nenechi/gmi, file: "superhyper.mp3", duration: 4000},
+				{re: /the goat/gmi, file: "thegoat.mp3", duration: 4000},
+				{re: /cream puff/gmi, file: "cream puff.mp3", duration: 4000},
+				{re: /I am a 5th grader/gmi, file: "5thgrader.mp3", duration: 4000},
+				{re: /Wizard/gmi, file: "shadowwizard.mp3", duration: 4000},
+				
 				
 				
 				
