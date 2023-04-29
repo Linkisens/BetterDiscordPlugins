@@ -1,6 +1,6 @@
 /**
  * @name MemeSounds
- * @version 0.8.5
+ * @version 0.8.6
  * @description meow
  * @author Link#0409
  * @authorId 539020860808232980
