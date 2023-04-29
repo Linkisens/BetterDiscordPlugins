@@ -93,3 +93,18 @@
 - present
 - Boom boom boom boom
 - uwu
+- Rizz
+- araV2
+- cardboard
+- butterflies
+- kawaii
+- Use
+- yameteV2
+- Metal
+- Moan
+- uwuV2
+- sprinkle
+- doodoo
+- Nword
+- Banana
+- Move
