@@ -122,6 +122,9 @@ module.exports = (() => {
 				{re: /cream puff/gmi, file: "cream puff.mp3", duration: 4000},
 				{re: /I am a 5th grader/gmi, file: "5thgrader.mp3", duration: 4000},
 				{re: /Wizard/gmi, file: "shadowwizard.mp3", duration: 4000},
+				{re: /Onii-chan/gmi, file: "henry_sus.mp3", duration: 4000},
+				{re: /släpp för fan/gmi, file: "släp.mp3", duration: 4000},
+				{re: /cracked/gmi, file: "cracked.mp3", duration: 4000},
 				
 				
 				
