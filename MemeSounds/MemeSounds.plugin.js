@@ -1,6 +1,6 @@
 /**
  * @name MemeSounds
- * @version 0.8.6
+ * @version 0.8.7
  * @description meow
  * @author Link#0409
  * @authorId 539020860808232980
@@ -125,6 +125,10 @@ module.exports = (() => {
 				{re: /Onii-chan/gmi, file: "henry_sus.mp3", duration: 4000},
 				{re: /släpp för fan/gmi, file: "släp.mp3", duration: 4000},
 				{re: /cracked/gmi, file: "cracked.mp3", duration: 4000},
+				{re: /uwu/gmi, file: "OkBoomer.mp3", duration: 4000},
+				{re: /present/gmi, file: "present.mp3", duration: 4000},
+				{re: /Boom boom boom boom/gmi, file: "BoomBoom.mp3", duration: 4000},
+				{re: /present/gmi, file: "present.mp3", duration: 4000},
 				
 				
 				
