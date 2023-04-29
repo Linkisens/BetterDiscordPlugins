@@ -1,6 +1,6 @@
 /**
  * @name MemeSounds
- * @version 0.8.0
+ * @version 0.8.1
  * @description meow
  * @author Link#0409
  * @authorId 539020860808232980
@@ -37,7 +37,7 @@ module.exports = (() => {
 				{re: /oof/gmi, file: "oof.mp3", duration: 250},
 				{re: /bruh/gmi, file: "bruh.mp3", duration: 470},
 				{re: /pain/gmi, file: "pain.mp3", duration: 470},
-				{re: /nigga/gmi, file: "itai.mp3", duration: 3000},
+				{re: /niga/gmi, file: "itai.mp3", duration: 3000},
 				{re: /bpm/gmi, file: "bpm.mp3", duration: 4000},
 				{re: /ara ara/gmi, file: "ara ara.mp3", duration: 400},
 				{re: /bye/gmi, file: "bye.mp3", duration: 1200},
