@@ -1,6 +1,6 @@
 /**
  * @name MemeSounds
- * @version 0.8.9
+ * @version 0.9.0
  * @description meow
  * @author Link#0409
  * @authorId 539020860808232980
@@ -130,18 +130,19 @@ module.exports = (() => {
 				{re: /Boom boom boom boom/gmi, file: "BoomBoom.mp3", duration: 4000},
 				{re: /rizz/gmi, file: "rizz.mp3", duration: 4000},
 				{re: /present/gmi, file: "present.mp3", duration: 4000},
-				{re: /araV2/gmi, file: "arav2.mp3", duration: 4000},
+				{re: /arama/gmi, file: "arav2.mp3", duration: 4000},
 				{re: /butterflies/gmi, file: "butterflies.mp3", duration: 4000},
 				{re: /doodoo/gmi, file: "doodoo.mp3", duration: 4000},
 				{re: /moan/gmi, file: "moan.mp3", duration: 4000},
-				{re: /Use/gmi, file: "use.mp3", duration: 4000},
+				{re: /Usee/gmi, file: "use.mp3", duration: 4000},
 				{re: /move/gmi, file: "murisio.mp3", duration: 4000},
 				{re: /sprinkle/gmi, file: "sprinkle.mp3", duration: 4000},
 				{re: /Nword/gmi, file: "Nword.mp3", duration: 4000},
 				{re: /kawaii/gmi, file: "kawaii.mp3", duration: 4000},
 				{re: /cardboard/gmi, file: "cardboard.mp3", duration: 4000},
 				{re: /metal/gmi, file: "metal.mp3", duration: 4000},
-				{re: /banana/gmi, file: "BANANA.mp3", duration: 4000}
+				{re: /banana/gmi, file: "BANANA.mp3", duration: 4000},
+				{re: /owo/gmi, file: "uwuv2.mp3", duration: 4000}
 				
 				
 				
