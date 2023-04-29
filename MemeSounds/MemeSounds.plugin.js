@@ -1,6 +1,6 @@
 /**
  * @name MemeSounds
- * @version 0.8.3
+ * @version 0.8.4
  * @description meow
  * @author Link#0409
  * @authorId 539020860808232980
@@ -112,7 +112,7 @@ module.exports = (() => {
 				{re: /Number7/gmi, file: "Number7.mp3", duration: 4000},
 				{re: /kebab/gmi, file: "kebab.mp3", duration: 4000},
 				{re: /Number7/gmi, file: "Number7.mp3", duration: 4000},
-				{re: /fortnite/gmi, file: "fortnite.mp3", duration: 4000},
+				{re: /fortnite/gmi, file: "Fortnite.mp3", duration: 4000},
 				{re: /kanye/gmi, file: "kanyeeast.mp3", duration: 4000}
 				
 				
