@@ -94,7 +94,7 @@
 - Boom boom boom boom
 - uwu
 - Rizz
-- araV2
+- arama
 - cardboard
 - butterflies
 - kawaii
@@ -102,7 +102,7 @@
 - yameteV2
 - Metal
 - Moan
-- uwuV2
+- owo
 - sprinkle
 - doodoo
 - Nword
