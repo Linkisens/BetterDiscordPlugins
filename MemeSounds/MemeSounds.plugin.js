@@ -1,13 +1,14 @@
 /**
  * @name MemeSounds
  * @version 0.7.9
- * @description meowwwwwwwwww
- * @author Thurion#8885
+ * @description meow
+ * @author Link#0409
  * @authorId 539020860808232980
  * @authorLink https://github.com/Linkisens/
  * @source https://github.com/Linkisens/BetterDiscordPlugins/blob/main/MemeSounds/MemeSounds.plugin.js
  * @updateUrl https://raw.githubusercontent.com/Linkisens/BetterDiscordPlugins/main/MemeSounds/MemeSounds.plugin.js
  */
+
 
 module.exports = (() => {
 	
