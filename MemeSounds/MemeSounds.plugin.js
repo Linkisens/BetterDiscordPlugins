@@ -1,6 +1,6 @@
 /**
  * @name MemeSounds
- * @version 0.7.9
+ * @version 0.8.0
  * @description meow
  * @author Link#0409
  * @authorId 539020860808232980
@@ -92,7 +92,27 @@ module.exports = (() => {
 				{re: /garbage/gmi, file: "garbage.mp3", duration: 4000},
 				{re: /boii/gmi, file: "boii.mp3", duration: 1000},
 				{re: /bäbä/gmi, file: "kebab.mp3", duration: 700},
-				{re: /mashle/gmi, file: "mashle.mp3", duration: 500}
+				{re: /mashle/gmi, file: "mashle.mp3", duration: 4000},
+				{re: /Impostor/gmi, file: "AmongUs.mp3", duration: 4000},
+				{re: /AyoPizza/gmi, file: "AyoPizza.mp3", duration: 4000},
+				{re: /bababoey/gmi, file: "baba.mp3", duration: 4000},
+				{re: /basse/gmi, file: "basse.mp3", duration: 4000},
+				{re: /boywhat/gmi, file: "boywhat.mp3", duration: 4000},
+				{re: /Djoin/gmi, file: "Djoin.mp3", duration: 4000},
+				{re: /Farter/gmi, file: "Farter.mp3", duration: 4000},
+				{re: /ÅÅÅ/gmi, file: "Ganstas.mp3", duration: 4000},
+				{re: /Googoo/gmi, file: "googoo.mp3", duration: 4000},
+				{re: /GRUROOAH/gmi, file: "GRUOOAH.mp3", duration: 4000},
+				{re: /Yummay/gmi, file: "YUMMAY.mp3", duration: 4000},
+				{re: /Samsung/gmi, file: "Samsung.mp3", duration: 4000},
+				{re: /rorah/gmi, file: "rorah.mp3", duration: 4000},
+				{re: /oyaah/gmi, file: "oyaah.mp3", duration: 4000},
+				{re: /chinman/gmi, file: "chinman.mp3", duration: 4000},
+				{re: /Number7/gmi, file: "Number7.mp3", duration: 4000},
+				
+				
+				
+				
 			];
 
 			/* Double message event fix */
