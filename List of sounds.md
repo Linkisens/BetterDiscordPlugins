@@ -90,3 +90,6 @@
 - släpp för fan
 - onii-chan
 - cracked
+- present
+- Boom boom boom boom
+- uwu
