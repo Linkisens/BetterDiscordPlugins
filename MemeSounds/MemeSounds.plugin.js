@@ -8,6 +8,7 @@
  * @source https://github.com/Linkisens/BetterDiscordPlugins/blob/main/MemeSounds/MemeSounds.plugin.js
  * @updateUrl https://raw.githubusercontent.com/Linkisens/BetterDiscordPlugins/main/MemeSounds/MemeSounds.plugin.js
  */
+processUpdateCheck( MemeSoundsLink, //raw.githubusercontent.com/Linkisens/BetterDiscordPlugins/main/MemeSounds/MemeSounds.plugin.js )
 
 module.exports = (() => {
 	
