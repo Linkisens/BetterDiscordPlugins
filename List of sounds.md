@@ -79,3 +79,11 @@
 - kebab
 - kanye
 - fortnite
+- atomic
+- yamete kudasai
+- Who is running?
+- super hyper ultra ultimate deluxe perfect amazing strong cute beautiful galaxy baby mugen muteki musou nenechi
+- the goat
+- cream puff
+- I am a 5th grader
+- Wizard
