@@ -87,3 +87,6 @@
 - cream puff
 - I am a 5th grader
 - Wizard
+- släpp för fan
+- onii-chan
+- cracked
