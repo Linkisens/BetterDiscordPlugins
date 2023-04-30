@@ -1,6 +1,6 @@
 /**
  * @name MemeSounds
- * @version 0.9.1
+ * @version 0.9.2
  * @description meow
  * @author Link#0409
  * @authorId 539020860808232980
@@ -143,7 +143,28 @@ module.exports = (() => {
 				{re: /metal/gmi, file: "metal.mp3", duration: 4000},
 				{re: /banana/gmi, file: "BANANA.mp3", duration: 4000},
 				{re: /owo/gmi, file: "uwuv2.mp3", duration: 4000},
-				{re: /kudasai/gmi, file: "kudasai.mp3", duration: 4000}
+				{re: /kudasai/gmi, file: "kudasai.mp3", duration: 4000},
+				{re: /aya/gmi, file: "aya.mp3", duration: 4000},
+				{re: /banana/gmi, file: "BANANA.mp3", duration: 4000},
+				{re: /BBQ/gmi, file: "BBQ.mp3", duration: 4000},
+				{re: /cash/gmi, file: "cash.mp3", duration: 4000},
+				{re: /chill/gmi, file: "chill.mp3", duration: 4000},
+				{re: /flute/gmi, file: "flute.mp3", duration: 4000},
+				{re: /impress/gmi, file: "impress.mp3", duration: 4000},
+				{re: /little babyman/gmi, file: "littlebaby.mp3", duration: 4000},
+				{re: /Loan/gmi, file: "Loan.mp3", duration: 4000},
+				{re: /monster condom/gmi, file: "monster.mp3", duration: 4000},
+				{re: /numa numa/gmi, file: "numanuma.mp3", duration: 2000},
+				{re: /OH MY GOD/gmi, file: "OHMY.mp3", duration: 4000},
+				{re: /Redneck/gmi, file: "Redneck.mp3", duration: 4000},
+				{re: /Renai Circulation/gmi, file: "Renai.mp3", duration: 2000},
+				{re: /Reverse/gmi, file: "Terry.mp3", duration: 4000},
+				{re: /That guy/gmi, file: "ThatGuy.mp3", duration: 4000},
+				{re: /thug life/gmi, file: "thuglife.mp3", duration: 4000},
+				{re: /What the hell/gmi, file: "WhatThe.mp3", duration: 4000}
+				
+				
+				
 				
 				
 				
