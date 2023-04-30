@@ -108,3 +108,19 @@
 - Nword
 - Banana
 - Move
+- aya
+- BBQ
+- cash
+- flute
+- impress
+- little babvyman
+- Loan
+- monster condom
+- numa numa
+- OH MY GOD
+- Redneck
+- Renai Circulation
+- Reverse
+- That guy
+- thug life
+- What the hell
