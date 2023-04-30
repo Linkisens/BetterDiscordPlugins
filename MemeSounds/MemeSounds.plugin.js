@@ -142,7 +142,8 @@ module.exports = (() => {
 				{re: /cardboard/gmi, file: "cardboard.mp3", duration: 4000},
 				{re: /metal/gmi, file: "metal.mp3", duration: 4000},
 				{re: /banana/gmi, file: "BANANA.mp3", duration: 4000},
-				{re: /owo/gmi, file: "uwuv2.mp3", duration: 4000}
+				{re: /owo/gmi, file: "uwuv2.mp3", duration: 4000},
+				{re: /kudasai/gmi, file: "kudasai.mp3", duration: 4000}
 				
 				
 				
