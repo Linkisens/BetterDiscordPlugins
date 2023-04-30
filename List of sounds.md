@@ -94,12 +94,12 @@
 - Boom boom boom boom
 - uwu
 - Rizz
-- arama
+- mama
 - cardboard
 - butterflies
 - kawaii
-- Use
-- yameteV2
+- girl
+- kudasai
 - Metal
 - Moan
 - owo
