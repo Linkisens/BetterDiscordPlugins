@@ -1,6 +1,6 @@
 /**
  * @name MemeSounds
- * @version 0.9.3
+ * @version 0.9.4
  * @description meow
  * @author Link#0409
  * @authorId 539020860808232980
@@ -160,7 +160,7 @@ module.exports = (() => {
 				{re: /Reverse/gmi, file: "Terry.mp3", duration: 4000},
 				{re: /That guy/gmi, file: "ThatGuy.mp3", duration: 4000},
 				{re: /thug life/gmi, file: "thuglife.mp3", duration: 4000},
-				{re: /What the hell/gmi, file: "WhatThe.mp3", duration: 4000},
+				{re: /No way/gmi, file: "Whatthe.mp3", duration: 4000},
 				
 				
 				
