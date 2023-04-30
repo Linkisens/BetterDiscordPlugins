@@ -1,6 +1,6 @@
 /**
  * @name MemeSounds
- * @version 0.9.2
+ * @version 0.9.3
  * @description meow
  * @author Link#0409
  * @authorId 539020860808232980
@@ -147,7 +147,6 @@ module.exports = (() => {
 				{re: /aya/gmi, file: "aya.mp3", duration: 4000},
 				{re: /banana/gmi, file: "BANANA.mp3", duration: 4000},
 				{re: /BBQ/gmi, file: "BBQ.mp3", duration: 4000},
-				{re: /cash/gmi, file: "cash.mp3", duration: 4000},
 				{re: /chill/gmi, file: "chill.mp3", duration: 4000},
 				{re: /flute/gmi, file: "flute.mp3", duration: 4000},
 				{re: /impress/gmi, file: "impress.mp3", duration: 4000},
@@ -161,7 +160,7 @@ module.exports = (() => {
 				{re: /Reverse/gmi, file: "Terry.mp3", duration: 4000},
 				{re: /That guy/gmi, file: "ThatGuy.mp3", duration: 4000},
 				{re: /thug life/gmi, file: "thuglife.mp3", duration: 4000},
-				{re: /What the hell/gmi, file: "WhatThe.mp3", duration: 4000}
+				{re: /What the hell/gmi, file: "WhatThe.mp3", duration: 4000},
 				
 				
 				
